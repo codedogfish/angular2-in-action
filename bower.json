@@ -1,0 +1,21 @@
+{
+  "name": "angular2-in-action",
+  "version": "0.0.0",
+  "homepage": "https://github.com/codedogfish/angular2-in-action",
+  "authors": [
+    "codedogfish <jackcool1989@outlook.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "traceur-runtime": "~0.0.91",
+    "angular-es6": "~2.0.0-alpha.35",
+    "system.js": "systemjs/systemjs#~0.18.14"
+  }
+}

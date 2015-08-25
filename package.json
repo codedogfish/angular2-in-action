@@ -1,0 +1,23 @@
+{
+  "name": "angular2-in-action",
+  "version": "1.0.0",
+  "description": "Practice on AngularJS 2.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedogfish/angular2-in-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedogfish/angular2-in-action/issues"
+  },
+  "homepage": "https://github.com/codedogfish/angular2-in-action#readme",
+  "devDependencies": {
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.0"
+  }
+}
